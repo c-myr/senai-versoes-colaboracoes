@@ -29,7 +29,7 @@ ___
 ___
 ## <center>📓 Definição <center>
 ___
-Listei a seguir a definição dos comandos utilizados em meu primeiro projeto: 
+### Listei a seguir a definição dos comandos utilizados em meu primeiro projeto: 
 
 - `git init`: cria a estrutura inicial do repositório Git no computador local
 - `git config --global user.name` e `git config --global user.email`: nomeia e cadastra o usuário do Git para identificar quem fez cada alteração
